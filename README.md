@@ -5,7 +5,8 @@ Country와 함께하는 Git 교실
 - stash pratice
 
 - fast-forward exer / confilct test
-i- 3-way other
+- 3-way other
 
 - rebase fast-forward test
 - rebase fast-forward test222
+- master - rebase auto merge
